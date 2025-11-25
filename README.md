@@ -2,7 +2,7 @@
 
 **Shopverse** is a modern multi-vendor e-commerce platform built with **React, Firebase, and Tailwind CSS**. It allows users to browse products, manage their cart and wishlist, and track orders. Vendors can register to sell their products, manage inventory, view analytics, and interact with customers.
 
-
+## Deployed Link : https://shopverse-5595c.web.app
 
 ## Features
 
@@ -34,10 +34,9 @@
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Firebase Firestore
 - **Authentication:** Firebase Auth
-- **Hosting:** Can be deployed on Netlify, Vercel, or Firebase Hosting
+
 
 ---
-
 ## Installation
 
 1. Clone the repository:
